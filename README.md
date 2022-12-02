@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ericklaus16
 - 👀 I’m interested in every area of development
 - 🌱 I’m currently learning C and web programming
+- 🖥️ Computer Science - Unioeste
 - 📫 How to reach me @erickbms1
