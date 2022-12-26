@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericklaus16
+- 👋 Hi, I’m Eric Klaus
 - 👀 I’m interested in every area of development
 - 🌱 I’m currently learning C and web programming
 - 🖥️ Computer Science - Unioeste
