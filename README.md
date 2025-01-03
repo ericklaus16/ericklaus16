@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate frontend and backend developer student from Brazil</h3>
 
-- 🌱 I’m currently learning **Web Development and Data Structures**
+- 🌱 I’m currently learning **Java, Computer Graphics, and Operating Systems**
 
 - 👨‍💻 My Starbucks Clone [https://ericklaus16.github.io/starbucks/](https://ericklaus16.github.io/starbucks/)
 
