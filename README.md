@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Java, Computer Graphics, and Operating Systems**
 
-- 👨‍💻 My Starbucks Clone [https://ericklaus16.github.io/starbucks/](https://ericklaus16.github.io/starbucks/)
-
-- 📝 My Discord Clone [https://ericklaus16.github.io/Discord/](https://ericklaus16.github.io/Discord/)
-
-- 💬 Ask me about **React, React Native, PHP, JavaScript**
+- 👨‍💻 My Portfolio [https://ericklaus16.github.io/](https://ericklaus16.github.io/)
+  
+- 💬 Ask me about **React, React Native, PHP, Java**
 
 - 📫 How to reach me **ericklaus205@gmail.com**
 
