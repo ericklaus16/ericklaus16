@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">A passionate frontend and backend developer student from Brazil</h3>
+<h1 align="center">Oi 👋, me chamo Eric</h1>
+<h3 align="center">Um jovem desenvolvedor brasileiro de tecnologias front-end e back-end</h3>
 
-- 🌱 I’m currently learning **Java, Computer Graphics, and Operating Systems**
+- 🌱 Atualmente, estou aprendendo **Java, Spring Boot, e Angular**
 
-- 👨‍💻 My Portfolio [https://ericklaus16.github.io/](https://ericklaus16.github.io/)
+- 👨‍💻 Meu Portfólio [https://ericklaus16.github.io/](https://ericklaus16.github.io/)
   
-- 💬 Ask me about **React, React Native, PHP, Java**
+- 💬 Me pergunte sobre **React, React Native, PHP, Java, Angular**
 
-- 📫 How to reach me **ericklaus205@gmail.com**
+- 📫 E-mail: **ericklaus205@gmail.com**
 
 - 📄 Linkedin [https://www.linkedin.com/in/eric-klaus-a40b261b2/](https://www.linkedin.com/in/eric-klaus-a40b261b2/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
